@@ -1,0 +1,7 @@
+v 3
+file . "Sumador_nbits_testing_bench.vhd" "20190212175903.000" "20190212120029.485":
+  entity sumador_nbits_testing_bench at 6( 116) + 0 on 21;
+  architecture behavioral of sumador_nbits_testing_bench at 13( 261) + 0 on 22;
+file . "Sumador_nbits.vhd" "20190212172555.000" "20190212120020.423":
+  entity sumador_nbits at 6( 96) + 0 on 19;
+  architecture combinational of sumador_nbits at 19( 373) + 0 on 20;
