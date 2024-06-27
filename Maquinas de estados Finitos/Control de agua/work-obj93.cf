@@ -1,0 +1,7 @@
+v 4
+file . "Control_llenado.vhd" "f07618c152442466339b8b5a67f13ab117982dd8" "20220801221420.531":
+  entity control_llenado at 3( 51) + 0 on 15;
+  architecture fsm of control_llenado at 16( 422) + 0 on 16;
+file . "TB_Control_llenado.vhd" "8644f4dddf93dc13d026feec93267016ba4ed46a" "20220801221526.839":
+  entity tb_control_llenado at 1( 0) + 0 on 19;
+  architecture banco of tb_control_llenado at 7( 98) + 0 on 20;

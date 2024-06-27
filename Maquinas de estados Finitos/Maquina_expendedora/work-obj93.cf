@@ -1,0 +1,7 @@
+v 4
+file . "TB_maquina_expendedora.vhd" "9fd99b9f6bda49266b27be3cec4d352cbd53a189" "20220804220225.136":
+  entity tb_maquina_expendedora at 3( 41) + 0 on 15;
+  architecture simulacion of tb_maquina_expendedora at 9( 147) + 0 on 16;
+file . "maquina_expendedora.vhd" "f30981cd5a4bdf90397bf4d776cf289c8519aacc" "20220804220639.657":
+  entity maquina_expendedora at 3( 24) + 0 on 17;
+  architecture fsm of maquina_expendedora at 16( 414) + 0 on 18;
