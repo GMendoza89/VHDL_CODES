@@ -1,0 +1,7 @@
+v 4
+file . "TB_Codificador_BCD_7SEG.vhd" "0196985f549a473902ba7cbb135d47ae7d1fbe08" "20221114225120.623":
+  entity tb_codificador_bcd_7seg at 2( 1) + 0 on 19;
+  architecture simulation of tb_codificador_bcd_7seg at 8( 109) + 0 on 20;
+file . "Codificador_BCD_7SEG.vhd" "86470d5c8af3884002ba27b6b84c6cbd0c1aa4ec" "20221114225109.339":
+  entity codificador_bcd_7seg at 1( 0) + 0 on 17;
+  architecture behavioral of codificador_bcd_7seg at 10( 215) + 0 on 18;
