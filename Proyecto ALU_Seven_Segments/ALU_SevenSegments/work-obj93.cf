@@ -1,0 +1,22 @@
+v 4
+file . "mcom_1.vhd" "e137a8eb256393add185166afda5c40f084c91d5" "20230810032214.965":
+  entity mcom_1 at 1( 0) + 0 on 23;
+  architecture simple of mcom_1 at 13( 371) + 0 on 24;
+file . "ccom_7.vhd" "82ceaff11affab33851c65e5d6bae0c0e6f7d50b" "20230810032159.157":
+  entity ccom_7 at 1( 0) + 0 on 19;
+  architecture complete of ccom_7 at 17( 709) + 0 on 20;
+file . "ALU_SevenSegments.vhd" "1e2f557e838930e21686a8da9d2f43dd4609371c" "20230810031118.566":
+  entity alu_sevensegments at 1( 0) + 0 on 15;
+  architecture behavioral of alu_sevensegments at 18( 1227) + 0 on 16;
+file . "ALU.vhd" "1a9c8e174de462198a9cd17533fb797294971620" "20230810030952.463":
+  entity alu at 35( 1455) + 0 on 11;
+  architecture behavioral of alu at 54( 2055) + 0 on 12;
+file . "binary_SevenSegments.vhd" "de9c87294c53b156710c24578cabcad111698350" "20230810031012.365":
+  entity binary_sevensegments at 6( 85) + 0 on 13;
+  architecture table of binary_sevensegments at 13( 281) + 0 on 14;
+file . "TB_ALU_SevenSegments.vhd" "a865e34226bf99fe23e140b4463bec582d085821" "20230810032232.108":
+  entity tb_alu_sevensegments at 1( 0) + 0 on 27;
+  architecture simulation of tb_alu_sevensegments at 8( 132) + 0 on 28;
+file . "comparator.vhd" "292b28963220e2851d82bca2c73e7f444f51b415" "20230810032227.214":
+  entity comparator at 13( 375) + 0 on 25;
+  architecture behavioral of comparator at 25( 664) + 0 on 26;
